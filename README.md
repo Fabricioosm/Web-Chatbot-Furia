@@ -3,7 +3,7 @@
 
 ## 📌 Sobre o Projeto
 Este projeto foi desenvolvido por parte de teste da equipe da Fúria.
-Oobjetivo desse projeto era desenvolver um chatbot para os fãs de CS-GO, onde os fãs poderia acompanhar o time e interagir.
+ Objetivo do projeto, desenvolver um chatbot web interativo voltado para fãs do time de CS da FURIA, com o objetivo de fornecer informações rápidas sobre o time, como jogadores, resultados, próximos jogos, títulos conquistados, história e produtos oficiais, tudo de forma acessível por meio de botões interativos ou mensagens digitadas.
 
 ## 🛠️ Funcionalidades Implementadas
 - ✅ Ultimas notícias sobre o time
