@@ -33,6 +33,9 @@ Oobjetivo desse projeto era desenvolver um chatbot para os fãs de CS-GO, onde o
 - ├── .gitignore  - Arquivos/dirs a ignorar no Git
 - └── package.json - Se desejar usar npm para gerenciar dependências
 
+## 🌐 Acesso ao Projeto
+🔗 [Acesso ao chatbot]https://fabricioosm.github.io/Web-Chatbot-Furia/
+
 
 
 
