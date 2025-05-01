@@ -30,8 +30,7 @@ Este projeto foi desenvolvido por parte de teste da equipe da Fúria.
 - ├── data/
 - │   └── perguntas.json  - (Opcional) perguntas e respostas organizadas
 - ├── README.md  - Documentação do projeto
-- ├── .gitignore  - Arquivos/dirs a ignorar no Git
-- └── package.json - Se desejar usar npm para gerenciar dependências
+
 
 ## 🌐 Acesso ao Projeto
 🔗 [🖥️Acesso ao chatbot] https://fabricioosm.github.io/Web-Chatbot-Furia/
