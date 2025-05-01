@@ -25,10 +25,6 @@ Este projeto foi desenvolvido por parte de teste da equipe da Fúria.
 - │   └── style.css - Estilos do chat
 - ├── js/
 - │   └── main.js  - Lógica principal do chatbot
-- ├── assets/
-- │   └── logo.png  - (Opcional) imagens usadas no site
-- ├── data/
-- │   └── perguntas.json  - (Opcional) perguntas e respostas organizadas
 - ├── README.md  - Documentação do projeto
 
 
