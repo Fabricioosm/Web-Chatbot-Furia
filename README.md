@@ -29,7 +29,7 @@ Este projeto foi desenvolvido por parte de teste da equipe da Fúria.
 
 
 ## 🌐 Acesso ao Projeto
-🔗 [🖥️Acesso ao chatbot] https://fabricioosm.github.io/Web-Chatbot-Furia/
+https://fabricioosm.github.io/Web-Chatbot-Furia/
 
 
 
