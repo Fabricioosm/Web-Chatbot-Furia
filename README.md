@@ -17,7 +17,7 @@ Este projeto foi desenvolvido por parte de teste da equipe da Fúria.
 - HTML5 
 - CSS3 
 - JavaScript 
-- IA
+  
 
 ## 🚀 Estrutura do Projeto
 - ├── index.html  - Estrutura principal da página
