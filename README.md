@@ -11,7 +11,7 @@ Este projeto foi desenvolvido por parte de teste da equipe da Fúria.
 - ✅ Data e horário das próximas partidas
 - ✅ Perfil dos jogadores
 - ✅ História do Time
-- ✅ Link para a loja oficual da Furia
+- ✅ Link para a loja oficial da Furia
 
 ## 🧩 Tecnologias Utilizadas
 - HTML5 
